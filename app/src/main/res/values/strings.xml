@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Banking Application</string>
+    <string-array name="select_bill">
+        <item>Select Bill</item>
+        <item>Hydro</item>
+        <item>Water</item>
+        <item>Gas</item>
+        <item>Phone</item>
+    </string-array>
+</resources>

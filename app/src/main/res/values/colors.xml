@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="colorPrimary">#050a2d</color>
+    <color name="colorPrimaryDark">#050a2d</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    //dark theme
+    <color name="background">#050a2d</color>
+    <color name="item_color">#1a1c47</color>
+    <color name="light_text">#777d98</color>
+    <color name="unselect_bottom">#2e3052</color>
+    <color name="setting_bg">#244087</color>
+
+
+    //light theme
+    <color name="light_bg">#f0eef0</color>
+    <color name="light_bg2">#e8e7ea</color>
+    <color name="unselect_bottom_light">#abaaab</color>
+    <color name="text_color_gray">#8e8e92</color>
+    <color name="light_green">#47C574</color>
+
+    <color name="orange">#f79739</color>
+    <color name="blue">#4981f3</color>
+    <color name="pink">#f44f6b</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000</color>
+
+    <color name="appBackground">#050a2d</color>
+    <color name="btn_out">#DCD9D9</color>
+    <color name="red">#C62828</color>
+
+    <color name="card_bg">#e8f6ee</color>
+    <color name="product_color">#e8f6ee</color>
+    <color name="green">#1ca953</color>
+    <color name="fav_color">#e6f4ec</color>
+    <color name="color1">#d3dcdc</color>
+    <color name="color2">#b9bac4</color>
+    <color name="color3">#bbcbb8</color>
+    <color name="color4">#949e6e</color>
+    <color name="text_color">#2c3e1c</color>
+    <color name="green_dark">#0e5f13</color>
+    <color name="search_bg">#f6f6f6</color>
+    <color name="sub_color">#91ba97</color>
+</resources>
